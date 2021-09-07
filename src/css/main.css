@@ -1,9 +1,11 @@
 .country__item {
-  font-size: 28px;
+  font-size: 26px;
+  margin: 5px 0;
 }
 
 body {
   position: relative;
+  padding: 30px;
 }
 
 .pnotify {
